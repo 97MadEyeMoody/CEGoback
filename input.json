@@ -1,0 +1,24 @@
+{
+    
+   "dev": {
+   "endpoint" :"https://staging.cloud-elements.com/elements/api-v2",
+   "auth":"User XNzP5miZ8LjANZarWA0np2LmNeRkUanHScUEQmQHwDs=, Organization c9584f9cc4a4c8391568438a9a3041a2",
+   "Elements": {
+       "element_ids" :[]
+   },
+   "formulas" :{
+       "formula_ids":[29121]
+   }
+},
+"prod" :{
+   "endpoint" :"",
+   "auth":"",
+   "Elements": {
+       "element_ids":[]
+   },
+   "formulas" :{
+       "formula_ids" :[]
+   }
+}
+
+}
